@@ -58,3 +58,10 @@ h4 {
     margin-top: 30px;
     font-weight: bold;
 }
+#footer {
+    position: bottom;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    color: #4c4a48;
+}
